@@ -9,3 +9,7 @@ Show fullscreen photo after thumbnail has been touched
 
 Since now, if you touch the image it will be resized into fullscreen mode.
 
+## Demo
+After thumbnail image has been touched, image is enlarge to fullscreen view.
+
+![demo](https://cloud.githubusercontent.com/assets/4491894/14510606/8f8b5876-01d2-11e6-9e6f-9595bff3a5a3.gif)
