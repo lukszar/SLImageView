@@ -1,5 +1,12 @@
 # SLImageView
-Show fullscreen photo after thumbnail has been touched
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
+Easy method to show your thumbnails on fullscreen view in iOS app.
+
+## Carthage 
+```
+github "lukszar/SLImageView" ~> 0.2
+```
 
 ## Easy start
 1. Add SLImageView Libray into your project.
