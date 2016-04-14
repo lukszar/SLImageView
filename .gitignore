@@ -1,6 +1,9 @@
 # Xcode
 #
 
+# OS X folder attributes
+.DS_Store
+
 ## Build generated
 build/
 DerivedData/

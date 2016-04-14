@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  SLImageViewDemo
 //
-//  Created by Lukasz Szarkowicz on 13.04.2016.
+//  Created by Lukasz Szarkowicz on 14.04.2016.
 //  Copyright © 2016 szarkowicz. All rights reserved.
 //
 

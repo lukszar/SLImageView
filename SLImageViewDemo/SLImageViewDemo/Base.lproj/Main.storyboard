@@ -17,24 +17,24 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="photo" translatesAutoresizingMaskIntoConstraints="NO" id="zj2-Fp-cAL" customClass="SLImageView" customModule="SLImageView">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="photo" translatesAutoresizingMaskIntoConstraints="NO" id="X5i-KL-Exo" customClass="SLImageView" customModule="SLImageView">
                                 <rect key="frame" x="225" y="225" width="150" height="150"/>
                                 <constraints>
-                                    <constraint firstAttribute="width" constant="150" id="MlT-uV-zCp"/>
-                                    <constraint firstAttribute="height" constant="150" id="cHL-N5-BGa"/>
+                                    <constraint firstAttribute="width" constant="150" id="JpE-83-M9A"/>
+                                    <constraint firstAttribute="height" constant="150" id="U4K-mL-ccS"/>
                                 </constraints>
                             </imageView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="zj2-Fp-cAL" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="L9b-Ab-4d2"/>
-                            <constraint firstItem="zj2-Fp-cAL" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="Tof-Jf-84b"/>
+                            <constraint firstItem="X5i-KL-Exo" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="PuW-jy-X5k"/>
+                            <constraint firstItem="X5i-KL-Exo" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="pJO-9a-iQQ"/>
                         </constraints>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="295" y="429"/>
+            <point key="canvasLocation" x="555" y="479"/>
         </scene>
     </scenes>
     <resources>

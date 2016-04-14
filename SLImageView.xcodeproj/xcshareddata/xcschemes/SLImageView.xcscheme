@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "374DDABC1CBEB0AD004EA4A0"
+               BlueprintIdentifier = "3718F2641CBFBA20004575EC"
                BuildableName = "SLImageView.framework"
                BlueprintName = "SLImageView"
                ReferencedContainer = "container:SLImageView.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "374DDABC1CBEB0AD004EA4A0"
+            BlueprintIdentifier = "3718F2641CBFBA20004575EC"
             BuildableName = "SLImageView.framework"
             BlueprintName = "SLImageView"
             ReferencedContainer = "container:SLImageView.xcodeproj">
@@ -63,7 +63,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "374DDABC1CBEB0AD004EA4A0"
+            BlueprintIdentifier = "3718F2641CBFBA20004575EC"
             BuildableName = "SLImageView.framework"
             BlueprintName = "SLImageView"
             ReferencedContainer = "container:SLImageView.xcodeproj">

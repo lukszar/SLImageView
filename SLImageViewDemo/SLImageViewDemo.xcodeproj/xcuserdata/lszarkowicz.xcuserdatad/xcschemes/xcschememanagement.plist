@@ -7,22 +7,12 @@
 		<key>SLImageViewDemo.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>1</integer>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>374DDAE21CBEB28C004EA4A0</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>374DDAF91CBEB28C004EA4A0</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>374DDB041CBEB28C004EA4A0</key>
+		<key>377C0A721CBFBB240016699B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
