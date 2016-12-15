@@ -10,7 +10,7 @@ import UIKit
 
 class SLImageView: UIImageView {
     
-    private let imageTag = 35012
+    fileprivate let imageTag = 35012
     var fullscreenImageView: UIImageView!
     var closeLabel: UILabel!
 
@@ -24,13 +24,13 @@ class SLImageView: UIImageView {
         self.setup()
     }
     
-    private func setup() {
+    fileprivate func setup() {
         self.isUserInteractionEnabled = true
         let touchGesture = UITapGestureRecognizer(target: self, action: #selector(showFullscreen))
         self.addGestureRecognizer(touchGesture)
     }
     
-    private func createFullscreenPhoto() -> UIImageView {
+    fileprivate func createFullscreenPhoto() -> UIImageView {
 
         let tmpImageView = UIImageView(frame: self.frame)
         tmpImageView.image = self.image
@@ -46,7 +46,7 @@ class SLImageView: UIImageView {
         return tmpImageView
     }
     
-    private func createLabel() -> UILabel {
+    fileprivate func createLabel() -> UILabel {
         
         let label = UILabel(frame: CGRect.zero)
         label.text = "Touch to hide"

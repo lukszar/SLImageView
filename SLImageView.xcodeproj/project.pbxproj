@@ -151,6 +151,7 @@
 				TargetAttributes = {
 					374DDABC1CBEB0AD004EA4A0 = {
 						CreatedOnToolsVersion = 7.3;
+						LastSwiftMigration = 0810;
 					};
 					374DDAC61CBEB0AD004EA4A0 = {
 						CreatedOnToolsVersion = 7.3;
@@ -326,6 +327,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -343,6 +345,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = info.szarkowicz.SLImageView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -385,6 +388,7 @@
 				374DDAD31CBEB0AD004EA4A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		374DDAD41CBEB0AD004EA4A0 /* Build configuration list for PBXNativeTarget "SLImageViewTests" */ = {
 			isa = XCConfigurationList;
@@ -393,6 +397,7 @@
 				374DDAD61CBEB0AD004EA4A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
