@@ -6,7 +6,6 @@
 //  Copyright © 2016 szarkowicz. All rights reserved.
 //
 
-
 import UIKit
 
 class SLImageView: UIImageView {
